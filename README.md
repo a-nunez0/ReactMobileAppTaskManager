@@ -1,4 +1,5 @@
 Overview
+
 For this mobile app I decided to use react native and expo to put together a task manager app.
 The purpose of this app was for me to learn how to do react native and create an app.
 React native is there to help create mobile apps and I didn't know anything about it until now.
